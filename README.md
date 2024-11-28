@@ -23,3 +23,7 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 Take a look at live version: [https://rm0anand.github.io/sortingAlgorithmVisualizer/]
+
+https://chatgpt.com/share/6747d641-0b88-800e-ac4a-be7f5da8b9cd
+
+https://chatgpt.com/share/6747d6ed-3844-800e-9aff-edf05f0945d0
